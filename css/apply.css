@@ -1,0 +1,125 @@
+/* General Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Navbar Styles */
+.navbar {
+    background-color: #000;
+    padding: 10px 0;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.navbar ul li {
+    flex-grow: 1;
+}
+
+.navbar ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #242424;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.navbar ul li a:hover {
+    background-color: #2b2b2b;
+    border-color: #000000;
+}
+
+.navbar ul li.center-text {
+    flex-grow: 2;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar ul li.center-text span {
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+}
+
+/* Hero Section */
+.hero {
+    background-image: url('https://cdn.discordapp.com/attachments/442831462106923010/1278652588367020103/background.png?ex=66d19585&is=66d04405&hm=9cbfb0213a414e36a182f094f4475f5ad516fa94b69573be2cdfbf5f62d3b2e6&');
+    background-size: cover;
+    background-position: center;
+    padding: 60px 20px;
+    margin-top: 30px;
+}
+
+.hero-logo {
+    max-width: 200px;
+    width: 100%;
+}
+
+/* Content Section */
+.content {
+    padding: 40px 20px;
+    margin-top: 40px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+.form-group button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #333;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.form-group button:hover {
+    background-color: #444;
+}
+
+/* Footer Styles */
+footer {
+    margin-top: auto;
+    padding: 20px 0;
+    background-color: #111;
+    color: #aaa;
+    font-size: 14px;
+}
