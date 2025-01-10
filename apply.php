@@ -23,7 +23,7 @@
 
     <main>
         <div class="hero">
-            <img src="img/Logo.png" alt="GRP Logo" class="hero-logo">
+            <img src="img/Logo.png" alt="Yor Logo" class="hero-logo">
         </div>
         <div class="content">
             <h2>Application Form</h2>
