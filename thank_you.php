@@ -16,14 +16,14 @@
                     <span>Thank You | [SERVER NAME]</span>
                 </li>
                 <li><a href="gallery.php">GALLERY</a></li>
-                <li><a href="https://www.discord.gg/globalrp">DISCORD</a></li>
+                <li><a href="Your Discord Link">DISCORD</a></li>
             </ul>
         </div>
     </header>
 
     <main>
         <div class="hero">
-            <img src="img/Logo.png" alt="GRP Logo" class="hero-logo">
+            <img src="img/Logo.png" alt="Your Logo" class="hero-logo">
         </div>
         <div class="content">
             <h2>Thank you for your application!</h2>
