@@ -16,7 +16,7 @@
                     <span>APPLY | [SERVER NAME]</span>
                 </li>
                 <li><a href="gallery.php">GALLERY</a></li>
-                <li><a href="https://www.discord.gg/globalrp">DISCORD</a></li>
+                <li><a href="Your Discord Link">DISCORD</a></li>
             </ul>
         </div>
     </header>
