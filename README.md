@@ -54,7 +54,7 @@
 </ol>
 
 <h2>📦 Installation Guide</h2> <h3>1. Upload to Server</h3> <ul> <li>Upload all website files to your preferred web server (e.g., Apache, NGINX).</li> </ul> <h3>2. Set Up Discord Webhook</h3> <ul> <li>Ensure the webhook URL is set correctly in <code>submit_application.php</code>.</li> </ul> <h3>3. Configure CSS</h3> <ul> <li>Modify the <code>css/style.css</code> file to adjust the color scheme if needed.</li> </ul>
-<h2>⚙️ Customization</h2> <h3>Color Scheme</h3> <p>The default color scheme uses:</p> <ul> <li>Primary: <code>#42f563</code> (Green)</li> <li>Secondary: <code>#ffffff</code> (White)</li> </ul> <h3>Gallery Images</h3> <p>To add more images to the gallery:</p> <ul> <li>Add your images to the <code>img/</code> directory.</li> <li>Ensure the <code>gallery.php</code> file dynamically loads them.</li> </ul>
+<h2>⚙️ Customization</h2> <h3>Gallery Images</h3> <p>To add more images to the gallery:</p> <ul> <li>Add your images to the <code>img/</code> directory.</li> <li>Ensure the <code>gallery.php</code> file dynamically loads them.</li> </ul>
 <h2>📩 Support and Contributions</h2> <p>For support, reach out via the contact form on the website or through your Discord server.</p> <p>Contributions are welcome! Feel free to submit pull requests for new features.</p>
 <h2>📄 License</h2> <p> Feel free to use this Website, just please do not redistribute, and please give the correct credit.</p>
 <h3 align="center">🎯 Thank you for using the Roleplay Website! 🎯</h3> ```
